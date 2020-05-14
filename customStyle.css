@@ -1,0 +1,16 @@
+.jumbotron {
+    background-image: url("banner.jpg");
+    min-height: 100vh;
+    background-size: cover;
+}
+
+.jumbotron > .container  {
+    text-align: center;
+}
+
+.jumbotron > .container h1 {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    opacity: 80%;
+    background-color: black;
+}

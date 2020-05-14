@@ -1,0 +1,16 @@
+{
+  "name": "nusratfatehalikhan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal Arif",
+  "license": "ISC"
+}
